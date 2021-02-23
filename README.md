@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi! I'm Eugene Sinamban 👋
 
-<!--
-**eugenesinamban/eugenesinamban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I'm currently going to Tech C., a technical school and I am taking up a programmer course.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=eugenesinamban)](https://github.com/ryo-ma/github-profile-trophy)
+
+I'm currently learning how to use Node and Deno to create a backend server for applications.
+
+Technology I can use:
+- PHP - Laravel
+- JavaScript - Node, Vue
+- Ruby - Ruby on Rails
+- AWS - EC2
+- GCP - GCS
+- Docker, Docker-compose
+
